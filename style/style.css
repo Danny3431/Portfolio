@@ -74,7 +74,7 @@ body{
     font-family: var(--fuente-montserrat);
 }
 .texto-pequeno {
-    font-size: 0.9em; /* Ajusta este valor según lo pequeño que desees el texto */
+    font-size: 0.8rem; /* Ajusta este valor según lo pequeño que desees el texto */
 }
 
 .presentacion__contenido__texto a{
